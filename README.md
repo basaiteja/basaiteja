@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BADDI AJTIH SAITEJA</h1>
 <h3 align="center">Passionate tech enthusiast 🚀 | Full-stack developer 💻 | New tech explorer 🤖 | Open source contributor 🌐 | Lifelong learner 📚</h3>
 
-- 👨‍💻 All of my projects are available at [https://basaiteja.github.io/bast](https://basaiteja.github.io/bast)
+- 👨‍💻 All of my projects are available at 
 
 - 📫 How to reach me **ajithsaiteja.baddi@gmail.com**
 
